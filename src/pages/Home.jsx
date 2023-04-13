@@ -1,4 +1,6 @@
 import React from 'react'
+import Header from '../components/Header/Header'
+
 
 function Home() {
   return (
@@ -8,4 +10,4 @@ function Home() {
   )
 }
 
-<p>Estamos en Home</p>export default Home
+export default Home
